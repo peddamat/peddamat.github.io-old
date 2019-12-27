@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/xsl/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shahani Family History</title>
+    <link>https://shahani.podomatic.com</link>
+    <description></description>
+    <language>en-us</language>
+    <generator>Podomatic RSS Generator</generator>
+    <pubDate>Thu, 26 Dec 2019 20:06:24 +0000</pubDate>
+    <itunes:keywords></itunes:keywords>
+    <itunes:subtitle>Give it a listen!</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="https://peddamat.github.io/art/cover.jpeg"/>
+    <itunes:author>Sam Peddamatham</itunes:author>
+    <itunes:summary></itunes:summary>
+    <atom:link href="https://shahani.podomatic.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Papa Interview - December 25, 2019</title>
+      <description>The Shahani Family History podcast.</description>
+      <guid isPermaLink="true">https://shahani.podomatic.com/entry/2019-12-26T11_48_45-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/shahani/episodes/2019-12-26T11_48_45-08_00</comments>
+      <pubDate>Thu, 26 Dec 2019 19:48:45 +0000</pubDate>
+      <dcterms:modified>2019-12-26</dcterms:modified>
+      <dcterms:created>2019-12-26</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/shahani/episodes/2019-12-26T11_48_45-08_00</link>
+      <dc:creator>Sam Peddamatham</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="https://peddamat.github.io/mp3/Papa Interview - December 25, 2019.mp3" length="52613373" type="audio/mpeg"/>
+      <itunes:duration>2191</itunes:duration>
+      <itunes:image href="https://peddamat.github.io/art/cover.jpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+    </item>
+  </channel>
+</rss>
