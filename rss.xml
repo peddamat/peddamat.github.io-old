@@ -34,5 +34,23 @@
       <itunes:summary></itunes:summary>
       <itunes:subtitle></itunes:subtitle>
     </item>
+    <item>
+      <title>Mom Interview - January 1, 2019</title>
+      <description>The Shahani Family History podcast.</description>
+      <guid isPermaLink="true">https://shahani.podomatic.com/entry/2019-12-26T11_48_45-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/shahani/episodes/2019-12-26T11_48_45-08_00</comments>
+      <pubDate>Wed, 1 Jan 2020 19:48:45 +0000</pubDate>
+      <dcterms:modified>2020-1-1</dcterms:modified>
+      <dcterms:created>2020-1-1</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/shahani/episodes/2019-12-26T11_48_45-08_00</link>
+      <dc:creator>Sam Peddamatham</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="https://peddamat.github.io/mp3/Mom Interview - January 1, 2019.mp3" length="52613373" type="audio/mpeg"/>
+      <itunes:duration>2191</itunes:duration>
+      <itunes:image href="https://peddamat.github.io/art/cover.jpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+    </item>
   </channel>
 </rss>
